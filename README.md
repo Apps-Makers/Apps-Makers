@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1770290/screenshots/6183149/bg_1.gif" alt="Building website layers animation" width="600" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGx0Mnp4Y3N4b3NseXY5azRnem1wYWllZnUwM2hhN2RxM2Nhcnd6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Isometric Male Developer" width="600" />
 </div>
 
 ---
