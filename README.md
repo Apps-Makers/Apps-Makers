@@ -5,22 +5,26 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=70&lines=Web+Development+Portfolio;HTML,+CSS+&+JavaScript;Responsive+Design;Frontend+Experiments;Building+Cool+Interfaces" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=70&lines=Web+Development+Portfolio;HTML,+CSS+&+JavaScript;Responsive+Design;Frontend+Experiments;Building+Modern+Interfaces" alt="Typing Animation"/>
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" style="width: 50%; height: auto;" />
+   <img src="https://i.pinimg.com/originals/4f/b0/3e/4fb03e36c63d420a44f57d27a1748961.gif" alt="Web Page Construction" style="width: 50%; height: auto; margin-bottom: 15px;" />
+</div>
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1770290/screenshots/6183149/bg_1.gif" alt="Building website layers animation" width="600" />
 </div>
 
 ---
 
-### 🚀 About this Profile
+### 🚀 About this Portfolio
 
-This is the creative space where I host my **Web Development** projects. Here you will find everything from static layouts to interactive applications.
+This repository serves as a dedicated portfolio for my **Web Development** projects. Here you will find a curated collection of web applications.
 
-- 🎨 **Focus:** UI/UX Design, Layouts, and Frontend Logic.
-- 👨‍💻 **Main Profile:** All my Engineering, AI, and Backend work is at **[@igna-s](https://github.com/igna-s)**.
-- ⚡ **Goal:** Building clean, fast, and responsive web experiences.
+- 🎨 **Focus:** UI/UX Implementation, Responsive Layouts, and Frontend Logic.
+- 👨‍💻 **Engineering Hub:** My specialized work in AI, Data Science can be found at **[@igna-s](https://github.com/igna-s)**.
+- ⚡ **Goal:** Engineering clean, fast, and user-centric web experiences.
 
 ---
 
@@ -32,7 +36,7 @@ This is the creative space where I host my **Web Development** projects. Here yo
 | :---: | :---: | :---: |
 | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></a> |
 
-#### Tools & Version Control
+#### Tools & Workflow
 
 | Git | VS Code | Bash |
 | :---: | :---: | :---: |
@@ -40,11 +44,13 @@ This is the creative space where I host my **Web Development** projects. Here yo
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Activity Dashboard</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apps-Makers&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Apps-Makers&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apps-Makers&theme=dracula" alt="Profile Details" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Apps-Makers&theme=dracula&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apps-Makers&theme=dracula" alt="Stats" />
 </div>
 
 ---
@@ -52,7 +58,7 @@ This is the creative space where I host my **Web Development** projects. Here yo
 <h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
-  For collaborations or to reach out, visit my main profile or check my links below:
+  Open to collaborations and new projects. Visit my main profile or contact me directly:
 </p>
 
 <p align="center">
